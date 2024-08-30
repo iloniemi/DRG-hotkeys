@@ -1,4 +1,7 @@
 # Simple quality of life hotkeys for Deep Rock Galactic
+## Setup
+AutoHotKey is required to run this script. It can be found at https://www.autohotkey.com/. Once installed run the script by double clicking DRG.ahk. 
+## Info
 Born ready perk is recommended because this script doesn't take need for reloading into account. 
 Hotkeys rely on few default key bindings:
 - Q -- Switch to previous equipment
